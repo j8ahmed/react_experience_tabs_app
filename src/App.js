@@ -1,10 +1,10 @@
 import React from 'react'
-import J8ahmed from './projects/j8ahmed_portfolio'
+import ExpTabs from './exp_tabs'
 
 const App = () => {
     return (
     <React.Fragment> 
-        <J8ahmed />
+        <ExpTabs />
     </React.Fragment>)
 }
 
